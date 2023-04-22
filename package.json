@@ -22,7 +22,7 @@
     "serve": "^11.2.0"
   },
   "dependencies": {
-    "@aws-amplify/auth": "^3.4.16",
+    "@aws-amplify/auth": "^3.4.34",
     "vue-js-modal": "^2.0.0-rc.6"
   }
 }
